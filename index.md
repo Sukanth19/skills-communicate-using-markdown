@@ -10,3 +10,7 @@ Added an image in index.md
 ``` javascript
 var x = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
